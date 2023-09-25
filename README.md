@@ -7,7 +7,7 @@ Luego realiza una solicitud get para obtener esa información y listarla como si
 
 Toma como referencia el primer twit para el listado de los siguiente.
 
-<img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/twitter.PNG">
+<img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/twitter2.0.PNG">
 
 Pixelart random: https://xsgames.co/randomusers/
 
