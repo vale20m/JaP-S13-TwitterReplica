@@ -264,7 +264,7 @@ body {
   width: 18%;
 }
 
-.home .feed .post .avatar img {
+.home .feed .post .avatar {
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -375,3 +375,7 @@ body {
   font-size: 20px;
 }
 /*# sourceMappingURL=styles.css.map */
+
+.profile-pic {
+  float: left;
+}
